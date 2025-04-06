@@ -1,0 +1,19 @@
+# ninja log v6
+5	160	7654142062082032	CMakeFiles/ejercicios.dir/main.cpp.obj.ddi	af353e4532dbfffd
+161	187	7654142063855464	CMakeFiles/ejercicios.dir/CXX.dd	c323b055133a7635
+161	187	7654142063855464	C:/Users/Usuario/CLionProjects/ejercicios/cmake-build-debug/CMakeFiles/ejercicios.dir/CXXModules.json	c323b055133a7635
+161	187	7654142063855464	CMakeFiles/ejercicios.dir/main.cpp.obj.modmap	c323b055133a7635
+187	660	7654142063905443	CMakeFiles/ejercicios.dir/main.cpp.obj	86fdb77ea2db7bb
+662	775	7654142068648599	ejercicios.exe	b051ae1f31fcde48
+5	149	7654143167409637	CMakeFiles/ejercicios.dir/main.cpp.obj.ddi	af353e4532dbfffd
+150	173	7654143168860945	CMakeFiles/ejercicios.dir/CXX.dd	c323b055133a7635
+150	173	7654143168860945	C:/Users/Usuario/CLionProjects/ejercicios/cmake-build-debug/CMakeFiles/ejercicios.dir/CXXModules.json	c323b055133a7635
+150	173	7654143168860945	CMakeFiles/ejercicios.dir/main.cpp.obj.modmap	c323b055133a7635
+174	625	7654143169101355	CMakeFiles/ejercicios.dir/main.cpp.obj	86fdb77ea2db7bb
+626	723	7654143173618862	ejercicios.exe	b051ae1f31fcde48
+6	155	7654143923315217	CMakeFiles/ejercicios.dir/main.cpp.obj.ddi	af353e4532dbfffd
+155	180	7654143924799234	CMakeFiles/ejercicios.dir/CXX.dd	c323b055133a7635
+155	180	7654143924799234	C:/Users/Usuario/CLionProjects/ejercicios/cmake-build-debug/CMakeFiles/ejercicios.dir/CXXModules.json	c323b055133a7635
+155	180	7654143924799234	CMakeFiles/ejercicios.dir/main.cpp.obj.modmap	c323b055133a7635
+181	660	7654143925059231	CMakeFiles/ejercicios.dir/main.cpp.obj	86fdb77ea2db7bb
+660	771	7654143929849318	ejercicios.exe	b051ae1f31fcde48
